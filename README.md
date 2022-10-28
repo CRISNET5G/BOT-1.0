@@ -19,7 +19,7 @@ apt-get install -y libgbm-dev wget unzip fontconfig locales gconf-service libaso
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt install ./google-chrome-stable_current_amd64.deb
 
-git clone https://github.com/gestorvip/GestorBot3.0-md.git && cd GestorBot3.0-md
+git clone https://github.com/CRISNET5G/BOT-1.0.git && cd BOT-1.0
 
 sh start.sh
 
@@ -29,4 +29,4 @@ npm install -g pm2
 
 pm2 start index.js
 
-cd GestorBot3.0-md && pm2 reload index.js
+cd BOT-1.0 && pm2 reload index.js
