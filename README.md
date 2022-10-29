@@ -30,3 +30,4 @@ npm install -g pm2
 pm2 start index.js
 
 cd BOT-1.0 && pm2 reload index.js
+
