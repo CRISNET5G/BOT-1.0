@@ -40,7 +40,7 @@ hitt = []
 //============INSIRA SUAS INFORMAÇÕES DA VPS ABAIXO==================\\
 //Acesse https://apirest.masterviip.com para adiquirir uma api ssh\\
 
-ipvps = "24.152.38.153"
+ipvps = "24.152.39.253"
 uservps = "root"
 senhavps = "Cs5725bel@"
 apipremium = "crisnet"
